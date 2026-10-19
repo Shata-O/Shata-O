@@ -1,16 +1,43 @@
-## Hi there 👋
+# Shammah Omoniyi
 
-<!--
-**Shata-O/Shata-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product and program management, with an energy background.**
 
-Here are some ideas to get you started:
+I spent two years at E.ON Next, a UK national energy retailer, working on demand
+management and smart tariff products — including NextDrive, an EV tariff built around
+cost-saving charging cycles, where I supported delivery and ran the workstreams I was
+given through to go-live readiness. A lot of that job was making work visible: I built
+the executive dashboards leadership used and automated the reporting underneath them,
+which cut data retrieval time by 30%.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside that I co-founded Distraction Entertainment, where I own the roadmap and
+decide what gets built from what the usage data says rather than from instinct.
+
+### What I'm doing now
+
+- **Co-Founder and Product Lead**, Distraction Entertainment — roadmap, prioritization,
+  and a small team across engineering and marketing
+- **Academic Success Center & Library Assistant**, Lincoln University — where I also
+  edit the *Lincoln Chronicle*, the student publication. Recently rebuilt its archive:
+  89 uncategorized posts sorted into sections, 59 cleaned up and republished
+- **MBA**, Lincoln University, Oakland CA — graduating August 2027
+
+### What I work with
+
+| | |
+|---|---|
+| **Product** | Roadmapping, discovery, user research, prioritization |
+| **Delivery** | Program management, agile and stage-gate, RAID, Jira, Asana |
+| **Data** | SQL, Python, Looker, Tableau, dashboards and KPI automation |
+| **Domain** | Energy and utilities, demand management, EV and smart tariffs |
+| **Building** | JavaScript, HTML/CSS, Angular, Flutter, Wix and Webflow |
+
+PMP and PRINCE2 7 Practitioner, both 2025.
+
+### About the repos here
+
+Most of what's public below is older work, kept as a record. My current work is product
+and delivery rather than open source, so the better look at it is my site.
+
+Open to program and product roles in the Bay Area or remote.
+
+**[shammahomoniyi.com](https://shammahomoniyi.com)** · **[LinkedIn](https://www.linkedin.com/in/shammah-o)**
